@@ -24,8 +24,8 @@ This HTML & CSS-only challenge is a perfect project for beginners getting up to 
 
 ### Links
 
-- Solution URL: [github](https://github.com/dantsub/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-9Sf2vG7z4C)
+- Live Site URL: [Site](https://dantsub.github.io/blog-preview-card/)
 
 ## My process
 
